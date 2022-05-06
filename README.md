@@ -14,6 +14,6 @@ Finally concluded that 8 neurons in the hidden layer is the optimum size for thi
 The optimizer of RMSprop with early stopping, batch size of 10 and trained for 1000 epoches achieved optimum 
 result for this function approximation experiment.
 
-**Hand-written Digits Classification**\
+**Multilayer Feedforward Network for Pattern Recognition**\
 to do...
 
