@@ -29,3 +29,5 @@ letters again.
 Lastly, I tested 2 training methods on random generated test data which is randomly flipped 0 to 3 pixels for
 each input. The model was trained 5000 epoches for both methods and plot the recognition error percentage against noise levels with these two different methods.
 
+**Convolutional Neural Neywork for CIFAR-10**\
+to do...
